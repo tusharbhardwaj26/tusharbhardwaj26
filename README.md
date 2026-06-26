@@ -1,6 +1,6 @@
 # hey, i’m tushar 👋
 
-currently building stuff as a **python dev intern @ vitti-capital-tech**  
+currently building stuff as a **python dev @ vitti-capital-tech**  
 also just messing around with code, ideas, and whatever feels fun to ship
 
 ---
